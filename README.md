@@ -5,4 +5,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asayuki397&show_icons=true&locale=en&layout=compact" alt="asayuki397" height="150">
   &emsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asayuki397&" alt="asayuki397" height="150"/></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asayuki397&" alt="asayuki397" height="150"/>
+</p>
+<p>
+  Profile image by こぱん
+  <a href="https://x.com/CoPaPano_PA">@CoPaPano_PA</a>
+</p>
