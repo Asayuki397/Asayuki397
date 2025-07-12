@@ -9,5 +9,5 @@
 </p>
 <p>
   Profile image by こぱん
-  <a href="https://x.com/CoPaPano_PA">@CoPaPano_PA</a>
+  <a href="https://x.com/__ruyu?t=tNos2laaXUgKBeYFYda-jg&s=09">@__ruyu</a>
 </p>
