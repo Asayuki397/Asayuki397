@@ -8,6 +8,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asayuki397&" alt="asayuki397" height="150"/>
 </p>
 <p>
-  Profile image by こぱん
+  Profile image by るゆ
   <a href="https://x.com/__ruyu?t=tNos2laaXUgKBeYFYda-jg&s=09">@__ruyu</a>
 </p>
